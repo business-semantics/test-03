@@ -21,24 +21,24 @@
 		<!-- other properties -->
 		<timestamp>${maven.build.timestamp}</timestamp>
 		<maven.build.timestamp.format>yyyy-MM-dd'T'HH:mm:ss.SSSZ</maven.build.timestamp.format>
-		<spring.security.version>6.5.10</spring.security.version>
+		<spring.security.version>6.1.0</spring.security.version>
 		<spring.security.saml2.version>1.0.10.RELEASE</spring.security.saml2.version>
 		<spring.security.kerberos.version>2.1.1</spring.security.kerberos.version>
-		<activemq.version>6.2.4</activemq.version>
-		<artemis.version>2.53.0</artemis.version>
+		<activemq.version>5.18.2</activemq.version>
+		<artemis.version>2.28.0</artemis.version>
 
 		<compiler.version>21</compiler.version>
 
-		<jersey.version>3.1.11</jersey.version>
+		<jersey.version>3.1.2</jersey.version>
 
 		<openhtml.version>1.0.5</openhtml.version>
 
-		<swagger.version>2.2.37</swagger.version>
+		<swagger.version>2.2.8</swagger.version>
 
-		<logback.version>1.5.27</logback.version>
-		<hibernate.core.version>6.6.49.Final</hibernate.core.version>
+		<logback.version>1.4.11</logback.version>
+		<hibernate.core.version>6.2.7.Final</hibernate.core.version>
 
-		<cxf.version>4.1.6</cxf.version>
+		<cxf.version>4.0.2</cxf.version>
 
 		<org.mapstruct.version>1.5.3.Final</org.mapstruct.version>
 		<org.lombok.version>1.18.36</org.lombok.version>
