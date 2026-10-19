@@ -36,7 +36,7 @@
 		<logback.version>1.4.11</logback.version>
 		<hibernate.core.version>6.2.7.Final</hibernate.core.version>
 
-		<cxf.version>4.0.2</cxf.version>
+		<cxf.version>4.0.5</cxf.version>
 
 		<org.mapstruct.version>1.5.3.Final</org.mapstruct.version>
 		<org.lombok.version>1.18.36</org.lombok.version>
